@@ -3,7 +3,7 @@
 ```markdown
 #  Embedding-Based RAG System  
 ## Policy Document Question Answering using ChromaDB  
-**Reference Book:** *:contentReference[oaicite:0]{index=0}*
+**Reference Book:** *:Looters and Grabbers*
 
 ---
 
